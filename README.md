@@ -9,3 +9,5 @@ python bot.py
 ```
 
 Bot ayarlarını `.env` dosyasından okur.
+
+> Not: Şifreler ve token koda konmaz, `.env` dosyası repoda yok. Merak etmeyin, her şey güvende 😎

@@ -13,7 +13,7 @@ MENU = {
     1: ["Ezogelin çorbası", "Kuru fasulye", "Bulgur pilavı", "Turşu"],
     2: ["Yayla çorbası", "Fırın köfte", "Patates püresi", "Sütlaç"],
     3: ["Domates çorbası", "Etli nohut", "Pilav", "Cacık"],
-    4: ["Tarhana çorbası", "Karnıyarık", "Makarna", "Meyve"],
+    4: ["Tarhana çorbası", "Karnıyarık", "Makarna", "Kemalpaşa tatlısı"],
 }
 
 def bugunun_menusu():
